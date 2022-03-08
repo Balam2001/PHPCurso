@@ -1,0 +1,3 @@
+Php es una lenguaje orientado a la web.
+
+Variables no pueden pertener o referenciar palabras del lenguaje, sin numeros ni caracteres especiales.
