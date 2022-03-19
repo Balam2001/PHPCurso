@@ -58,5 +58,17 @@ echo "<br>";
 echo PI;
 
 
+//Operadores logicos
+
+$Num=25;
+$Num2=100;
+$Num3=25;
+
+echo $num < $num2 && $num == $num3; //AND
+echo "<br>";
+echo $num < $num2 || $num2 == $num3; //OR
+
+
+
 
 ?>
